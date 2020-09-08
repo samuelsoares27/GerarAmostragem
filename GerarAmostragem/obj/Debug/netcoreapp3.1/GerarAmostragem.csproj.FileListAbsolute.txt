@@ -1,0 +1,15 @@
+D:\Visual Studio\GerarAmostragem\GerarAmostragem\bin\Debug\netcoreapp3.1\GerarAmostragem.exe
+D:\Visual Studio\GerarAmostragem\GerarAmostragem\obj\Debug\netcoreapp3.1\GerarAmostragem.csprojAssemblyReference.cache
+D:\Visual Studio\GerarAmostragem\GerarAmostragem\obj\Debug\netcoreapp3.1\GerarAmostragem.AssemblyInfoInputs.cache
+D:\Visual Studio\GerarAmostragem\GerarAmostragem\obj\Debug\netcoreapp3.1\GerarAmostragem.AssemblyInfo.cs
+D:\Visual Studio\GerarAmostragem\GerarAmostragem\bin\Debug\netcoreapp3.1\GerarAmostragem.deps.json
+D:\Visual Studio\GerarAmostragem\GerarAmostragem\bin\Debug\netcoreapp3.1\GerarAmostragem.runtimeconfig.json
+D:\Visual Studio\GerarAmostragem\GerarAmostragem\bin\Debug\netcoreapp3.1\GerarAmostragem.runtimeconfig.dev.json
+D:\Visual Studio\GerarAmostragem\GerarAmostragem\bin\Debug\netcoreapp3.1\GerarAmostragem.dll
+D:\Visual Studio\GerarAmostragem\GerarAmostragem\bin\Debug\netcoreapp3.1\GerarAmostragem.pdb
+D:\Visual Studio\GerarAmostragem\GerarAmostragem\bin\Debug\netcoreapp3.1\IronXL.dll
+D:\Visual Studio\GerarAmostragem\GerarAmostragem\obj\Debug\netcoreapp3.1\GerarAmostragem.csproj.CoreCompileInputs.cache
+D:\Visual Studio\GerarAmostragem\GerarAmostragem\obj\Debug\netcoreapp3.1\GerarAmostragem.csproj.CopyComplete
+D:\Visual Studio\GerarAmostragem\GerarAmostragem\obj\Debug\netcoreapp3.1\GerarAmostragem.dll
+D:\Visual Studio\GerarAmostragem\GerarAmostragem\obj\Debug\netcoreapp3.1\GerarAmostragem.pdb
+D:\Visual Studio\GerarAmostragem\GerarAmostragem\obj\Debug\netcoreapp3.1\GerarAmostragem.genruntimeconfig.cache

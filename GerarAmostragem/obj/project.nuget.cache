@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zv7YpZmxHIW4M453IGoIDyr9Ux8tZuK3SElzqXbz8dLobMmrpZTbDohb2CDg+coOILsk2FjgNl/+5C3XIzp/Aw==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio\\GerarAmostragem\\GerarAmostragem\\GerarAmostragem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samue\\.nuget\\packages\\ironxl.excel\\2020.9.0\\ironxl.excel.2020.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

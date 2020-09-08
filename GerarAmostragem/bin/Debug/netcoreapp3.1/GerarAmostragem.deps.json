@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GerarAmostragem/1.0.0": {
+        "dependencies": {
+          "IronXL.Excel": "2020.9.0"
+        },
+        "runtime": {
+          "GerarAmostragem.dll": {}
+        }
+      },
+      "IronXL.Excel/2020.9.0": {
+        "runtime": {
+          "lib/netstandard2.0/IronXL.dll": {
+            "assemblyVersion": "2020.9.0.0",
+            "fileVersion": "2020.9.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GerarAmostragem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IronXL.Excel/2020.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BcNUz48cnZR+zlxzamNiJGqcxYuYalNPwl6/k/n41z9Z8bUUZHc6d7YmItDG1xBbHxllLKFpXVoGU1QouBTaQw==",
+      "path": "ironxl.excel/2020.9.0",
+      "hashPath": "ironxl.excel.2020.9.0.nupkg.sha512"
+    }
+  }
+}

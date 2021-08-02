@@ -32,13 +32,15 @@ namespace GerarAmostragem
                 {
                     ListaNumeroRandom.Add(numero);
                 }
-                
+                else {
+                    i--;
+                }
             }
 
             int contador = 1;
             foreach (var item in ListaNumeroRandom)
             {
-                sheet[$"O{item}"].Value = "Selecionado";
+                sheet[$"X{item}"].Value = "Selecionado";
                 Console.WriteLine($"{contador}/{ListaNumeroRandom.Count()}");
                 contador++;
             }

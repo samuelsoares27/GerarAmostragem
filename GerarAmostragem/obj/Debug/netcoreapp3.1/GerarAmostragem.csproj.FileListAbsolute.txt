@@ -13,3 +13,18 @@ D:\Visual Studio\GerarAmostragem\GerarAmostragem\obj\Debug\netcoreapp3.1\GerarAm
 D:\Visual Studio\GerarAmostragem\GerarAmostragem\obj\Debug\netcoreapp3.1\GerarAmostragem.dll
 D:\Visual Studio\GerarAmostragem\GerarAmostragem\obj\Debug\netcoreapp3.1\GerarAmostragem.pdb
 D:\Visual Studio\GerarAmostragem\GerarAmostragem\obj\Debug\netcoreapp3.1\GerarAmostragem.genruntimeconfig.cache
+C:\Users\Samuel\Source\Repos\GerarAmostragem\GerarAmostragem\bin\Debug\netcoreapp3.1\GerarAmostragem.exe
+C:\Users\Samuel\Source\Repos\GerarAmostragem\GerarAmostragem\bin\Debug\netcoreapp3.1\GerarAmostragem.deps.json
+C:\Users\Samuel\Source\Repos\GerarAmostragem\GerarAmostragem\bin\Debug\netcoreapp3.1\GerarAmostragem.runtimeconfig.json
+C:\Users\Samuel\Source\Repos\GerarAmostragem\GerarAmostragem\bin\Debug\netcoreapp3.1\GerarAmostragem.runtimeconfig.dev.json
+C:\Users\Samuel\Source\Repos\GerarAmostragem\GerarAmostragem\bin\Debug\netcoreapp3.1\GerarAmostragem.dll
+C:\Users\Samuel\Source\Repos\GerarAmostragem\GerarAmostragem\bin\Debug\netcoreapp3.1\GerarAmostragem.pdb
+C:\Users\Samuel\Source\Repos\GerarAmostragem\GerarAmostragem\bin\Debug\netcoreapp3.1\IronXL.dll
+C:\Users\Samuel\Source\Repos\GerarAmostragem\GerarAmostragem\obj\Debug\netcoreapp3.1\GerarAmostragem.csproj.AssemblyReference.cache
+C:\Users\Samuel\Source\Repos\GerarAmostragem\GerarAmostragem\obj\Debug\netcoreapp3.1\GerarAmostragem.AssemblyInfoInputs.cache
+C:\Users\Samuel\Source\Repos\GerarAmostragem\GerarAmostragem\obj\Debug\netcoreapp3.1\GerarAmostragem.AssemblyInfo.cs
+C:\Users\Samuel\Source\Repos\GerarAmostragem\GerarAmostragem\obj\Debug\netcoreapp3.1\GerarAmostragem.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Source\Repos\GerarAmostragem\GerarAmostragem\obj\Debug\netcoreapp3.1\GerarAmostragem.csproj.CopyComplete
+C:\Users\Samuel\Source\Repos\GerarAmostragem\GerarAmostragem\obj\Debug\netcoreapp3.1\GerarAmostragem.dll
+C:\Users\Samuel\Source\Repos\GerarAmostragem\GerarAmostragem\obj\Debug\netcoreapp3.1\GerarAmostragem.pdb
+C:\Users\Samuel\Source\Repos\GerarAmostragem\GerarAmostragem\obj\Debug\netcoreapp3.1\GerarAmostragem.genruntimeconfig.cache
